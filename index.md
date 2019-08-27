@@ -2,13 +2,11 @@
 
 # **Diya Bera's First CS 193 Homework**
 
-Some of my favorite things:
-- Sitcoms
-- Books
-- Food
-- Sleeping
-- Music
-- [My favorite website](www.google.com)
+Some of my favorite things about the class are:
+- the TA's
+- small size of classes
+- getting to know about extra tools
+- help is available
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
